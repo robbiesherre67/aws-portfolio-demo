@@ -1,15 +1,11 @@
-# deps
 **/node_modules/
-# next.js
 .next/
+web/.next/
 out/
 .vercel/
-# builds/artifacts
 dist/
 cdk.out/
-# env
 .env
 .env.*
-# misc
 .DS_Store
 *.log
